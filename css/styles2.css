@@ -1,0 +1,49 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  background-color: #C6ECEB; 
+}
+
+h1 {
+  color: #2A9896;
+  text-align: center;
+  font-weight: bolder;
+}
+
+h2 {
+  color: #261475;
+   
+   
+}
+
+h3 {
+  color: #056128
+}
+
+p {
+  font-weight: lighter;
+}
+
+.p2 {
+  color: #6e0018;
+  font-weight: bolder;
+  text-align: center;
+}
+
+ul {
+
+}
+
+ol {
+
+}
+
+li {
+  font-weight: lighter;
+}
+
+.photo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
